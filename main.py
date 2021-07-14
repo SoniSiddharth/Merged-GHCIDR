@@ -1,9 +1,6 @@
 from utils import getCifar10Data, getMnistData, getFMnistData, saveAsPickle,getTinyImagenetData
 from algorithms.ghcidr import GHCIDR
 from algorithms.baselineRHC import RHC
-from algorithms.koncw import KONCW 
-from algorithms.cwkc import CWKC
-from algorithms.rhckon import RHCKON
 from algorithms.mghcidr import Merged_GHCIDR
 import argparse
 import os,sys
@@ -25,10 +22,7 @@ Datasets = {
             }
 Variants = {
             "GHCIDR":GHCIDR,
-            "KONCW":KONCW,
-            "CWKC":CWKC,
             "RHC":RHC,
-            "RHCKON":RHCKON,
             "MGHCIDR": Merged_GHCIDR
             }
 
