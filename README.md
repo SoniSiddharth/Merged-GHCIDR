@@ -54,4 +54,4 @@ The contributors of this project -
 **[Devvrat Joshi](https://github.com/devvrat-joshi)**<br>
 **[Janvi Thakkar](https://github.com/jvt3112)**<br>
 **[Shril Mody](https://github.com/Shrilboss)**<br> 
-**[Siddharth Soni](https://github.com/SoniSiddharth)**<br> 
+**[Siddharth Soni](https://github.com/SoniSiddharth)**<br>
