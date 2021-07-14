@@ -1,0 +1,3 @@
+GHCIDR - xtrain,xtest,ytrain,ytest,givenclusters (are clusters already there ??)
+Centroid - xtrain,xtest,ytrain,ytest 
+ 
